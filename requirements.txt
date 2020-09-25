@@ -1,0 +1,8 @@
+pip install Django
+pip install djangorestframework
+pip install django-cassandra-engine
+pip install cassandra-driver
+pip install futures
+pip install six
+
+#
